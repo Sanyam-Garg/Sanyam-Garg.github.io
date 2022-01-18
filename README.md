@@ -1,2 +1,2 @@
 # Personal Website
-The website can be visited on _______
+The website can be visited on https://sanyam-garg.github.io/
